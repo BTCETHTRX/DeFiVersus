@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&subset=cyrillic");
+
+*{
+    font-family: 'Montserrat';
+}
+
+html{
+    background-color: #060606!important;
+}
+
+.my_black{
+    background-color: #060606!important;
+}
+.my_lightblack{
+    background-color: #0F0F0F!important;
+}
+.my_grey{
+    background-color: #141414!important;
+}
+.my_green--text{
+    color:#01ff00!important;
+    caret-color: #01ff00!important;
+}
+
+.my_red{
+    background-color: #ff0000!important;
+}
+
+.my_red--text{
+    color:#ff0000!important;
+    caret-color: #ff0000!important;
+}
+
+.my_grey--text{
+    color:#666666!important;
+    caret-color: #666666!important;
+}
+
+.my_lightgrey--text{
+    color:#adafae!important;
+    caret-color: #adafae!important;
+}
+
+.mw100{
+    min-width: 100px !important;
+}
+.mw200{
+    min-width: 200px !important;
+}
+
+
+.transition-ease{
+    transition: all 1s;
+}
+
+.transition-ease-fast{
+    transition: all .4s;
+}
